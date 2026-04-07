@@ -33,6 +33,3 @@ npm start
 📚 Use Case
 
 This system can be used by educational institutes to manage online learning efficiently.
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/LMS-Management-System.git
